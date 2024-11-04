@@ -36,7 +36,7 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/gene-robpark/)
+- [LinkedIn](https://www.linkedin.com/in/gene-robpark/) (I’m not active on LinkedIn at the moment)
 - [Developer Portfolio](https://personalcodecare.github.io/)
 
 ## 📫 Contact Me
