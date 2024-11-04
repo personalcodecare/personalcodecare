@@ -1,4 +1,4 @@
-# Hi, I’m Rob Park (@personalcodecare) 👋
+# Hi, I’m Rob (@personalcodecare) 👋
 
 ## 🚀 About Me
 
