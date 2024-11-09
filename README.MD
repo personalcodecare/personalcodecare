@@ -42,4 +42,4 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 ## 📫 Contact Me
 
 - Email: [eth.dev0428@gmail.com](mailto:eth.dev0428@gmail.com)
-- Phone: +1 940 468 4758
+- Phone: +1 650 770 9929
