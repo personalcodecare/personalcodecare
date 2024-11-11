@@ -26,11 +26,9 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 - **Security and Scalability Focus:** Implemented and maintained high-level security protocols across platforms, focusing on scalability to accommodate rapid growth in user base and data volume.
 - **Mentoring and Team Development:** Mentored team members across various departments, sharing knowledge and best practices in software development, particularly in areas of system architecture and blockchain technology.
 
-## 🔗 Links
-
-- [LinkedIn](https://www.linkedin.com/in/gene-robpark/) (I’m not active on LinkedIn at the moment)
-
 ## 📫 Contact Me
 
 - Email: [eth.dev0428@gmail.com](mailto:eth.dev0428@gmail.com)
 - Phone: +1 650 770 9929
+- Telegram: @etherlancer
+- Discord: personalcodecare
