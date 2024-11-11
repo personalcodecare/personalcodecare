@@ -1,8 +1,8 @@
-# Hi, I’m Rob (@personalcodecare) 👋
+# Hi, I’m Rob Park(@personalcodecare) 👋
 
 ## 🚀 About Me
 
-I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in creating scalable backends and integrating blockchain technologies. I have a passion for blending the worlds of blockchain and gaming, leading innovative projects in the Web3 space. My focus is on crafting high-impact user experiences and robust backend systems, ensuring security, scalability, and efficiency.
+I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in creating scalable backends and integrating blockchain technologies. My focus is on crafting high-impact user experiences and robust backend systems, ensuring security, scalability, and efficiency.
 
 ## 👀 Interests
 
@@ -11,14 +11,6 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 - Coding
 - Gaming
 - Street Luge
-
-## 💼 Current Role
-
-**Fullstack Blockchain Developer at August Digital Inc**
-- Focus on multi-tenant backend architecture
-- Expertise in blockchain integration within the NFT industry
-- Develop Multi chain Bridge app for android and ios like Cirus App
-- Oversaw the integration of NFTs and token-based systems to enhance the gaming experience
 
 ## 🔨 My Skillset
 
@@ -37,7 +29,6 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/gene-robpark/) (I’m not active on LinkedIn at the moment)
-- [Developer Portfolio](https://personalcodecare.github.io/)
 
 ## 📫 Contact Me
 
