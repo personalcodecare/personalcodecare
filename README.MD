@@ -1,4 +1,4 @@
-# Hi, I’m Rob Park(@personalcodecare) 👋
+# Hi, I’m your @personalcodecare 👋
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I'm a Senior Fullstack Engineer with over 8 years of experience, specializing in
 ## 🔨 My Skillset
 
 **Languages:** Solidity, Golang, JavaScript, TypeScript, Python, Rust  
-**Frameworks:** Web3, React, Redux, NextJS, NestJS, Ethers, Hardhat, Express  
+**Frameworks:** React, Redux, NextJS, NestJS, Ethers, Hardhat, Express, Web3 
 **Technologies:** Docker, Kubernetes, AWS, Terraform, Redis, PostgreSQL, GraphQL, SQL, WebSockets, RabbitMQ, HTML, CSS, Linux
 
 ## 🌟 Unique Contributions
